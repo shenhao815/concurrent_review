@@ -9,6 +9,8 @@ import java.util.List;
 /**
  * @author ch
  * @date 2021-1-12
+ *
+ * 保护性暂停模式
  */
 @Slf4j
 public class Test20 {
